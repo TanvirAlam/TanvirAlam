@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanviralam" alt="tanviralam" /></a> </p>
 
+- 📄 Please have a look at my CSS animation collections: 
+      - https://github.com/TanvirAlam/my-css
+
+- 📄 Please have a look at my collection of all the JS Design patterns: 
+      - https://github.com/TanvirAlam/my-design-patterns
+      
 - 👨‍💻 All of my projects are available at [https://www.tanvir.dk/](https://www.tanvir.dk/)
 
 - 💬 Ask me about **React, typescript, storybook**
