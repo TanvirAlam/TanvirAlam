@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tanvir Alam</h1>
 <h3 align="center">I have a strong desire for change, disciplined dedication, and unbeatable persistence.</h3>
 
@@ -31,6 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviralam&show_icons=true&locale=en" alt="tanviralam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviralam&" alt="tanviralam" /></p>
-
-
-[![Tanvir github stats](https://github-readme-stats.vercel.app/api?username=tanviralam)](https://github.com/tanviralam/github-readme-stats)
