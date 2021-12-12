@@ -9,9 +9,9 @@
       - https://github.com/TanvirAlam/my-css
 
 - 📄 Please have a look at my collection of all the JS Design patterns: https://github.com/TanvirAlam/my-design-patterns <br>
-      - React: https://github.com/TanvirAlam/my-design-patterns/tree/main/React-env
-      - Vue: ????
-      - JS: ????
+      - React: https://github.com/TanvirAlam/my-design-patterns/tree/main/React-env <br>
+      - Vue: ???? <br>
+      - JS: ???? <br>
       
 - 👨‍💻 All of my projects are available at [https://www.tanvir.dk/](https://www.tanvir.dk/)
 
