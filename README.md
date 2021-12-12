@@ -10,6 +10,9 @@
 
 - 📄 Please have a look at my collection of all the JS Design patterns: 
       - https://github.com/TanvirAlam/my-design-patterns
+      - React: https://github.com/TanvirAlam/my-design-patterns/tree/main/React-env
+      - Vue: ????
+      - JS: ????
       
 - 👨‍💻 All of my projects are available at [https://www.tanvir.dk/](https://www.tanvir.dk/)
 
