@@ -8,8 +8,7 @@
 - 📄 Please have a look at my CSS animation collections: 
       - https://github.com/TanvirAlam/my-css
 
-- 📄 Please have a look at my collection of all the JS Design patterns: 
-      - https://github.com/TanvirAlam/my-design-patterns
+- 📄 Please have a look at my collection of all the JS Design patterns: https://github.com/TanvirAlam/my-design-patterns <br>
       - React: https://github.com/TanvirAlam/my-design-patterns/tree/main/React-env
       - Vue: ????
       - JS: ????
