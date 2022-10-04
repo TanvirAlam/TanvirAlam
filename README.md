@@ -10,8 +10,9 @@
 
 - 📄 Please have a look at my collection of all the JS Design patterns: https://github.com/TanvirAlam/my-design-patterns <br>
       - React: 
-            https://github.com/TanvirAlam/my-design-patterns/tree/main/React-env <br>
-            https://github.com/TanvirAlam/pokemon-go <br>
+            - https://github.com/TanvirAlam/my-design-patterns/tree/main/React-env <br>
+            - https://github.com/TanvirAlam/pokemon-go <br>
+            - https://github.com/TanvirAlam/React-image-slider <br>
       - Vue: ???? <br>
       - JS: ???? <br>
       
