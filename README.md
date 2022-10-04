@@ -9,7 +9,9 @@
       - https://github.com/TanvirAlam/my-css
 
 - 📄 Please have a look at my collection of all the JS Design patterns: https://github.com/TanvirAlam/my-design-patterns <br>
-      - React: https://github.com/TanvirAlam/my-design-patterns/tree/main/React-env <br>
+      - React: 
+            https://github.com/TanvirAlam/my-design-patterns/tree/main/React-env <br>
+            https://github.com/TanvirAlam/pokemon-go <br>
       - Vue: ???? <br>
       - JS: ???? <br>
       
