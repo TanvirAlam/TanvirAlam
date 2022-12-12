@@ -8,7 +8,7 @@
 - 📄 Please have a look at my CSS animation collections: 
       - https://github.com/TanvirAlam/my-css
 
-- 📄 Please have a look at my collection of all the JS Design patterns: https://github.com/TanvirAlam/my-design-patterns <br>
+- 📄 **React and Nextjs** PROJECTS<br>
       - 👨‍💻 Facebook-clone: https://github.com/TanvirAlam/nextjs13-facebook-clone<br>
       - 👨‍💻 Amazon-clone: https://github.com/TanvirAlam/nextjs13-amazon-clone<br>
       - 👨‍💻 Hulu-clone: https://github.com/TanvirAlam/nextjs13-hulu-clone<br>
