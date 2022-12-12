@@ -9,18 +9,16 @@
       - https://github.com/TanvirAlam/my-css
 
 - 📄 Please have a look at my collection of all the JS Design patterns: https://github.com/TanvirAlam/my-design-patterns <br>
-      - Facebook-clone: https://github.com/TanvirAlam/nextjs13-facebook-clone
-      - Amazon-clone: https://github.com/TanvirAlam/nextjs13-amazon-clone
-      - Hulu-clone: https://github.com/TanvirAlam/nextjs13-hulu-clone
-      - News-app: https://github.com/TanvirAlam/nextjs13-news-app
-      - Meta-Messenger-clone: https://github.com/TanvirAlam/next13-meta-messenger
-      - Google-clone: https://github.com/TanvirAlam/nextjs13-google-clone (Live)
-      - Netflex-clone:
-      - LinkedIn-clone:
-      
-- 👨‍💻 All of my projects are available at [https://www.tanvir.dk/](https://www.tanvir.dk/)
+      - 👨‍💻 Facebook-clone: https://github.com/TanvirAlam/nextjs13-facebook-clone<br>
+      - 👨‍💻 Amazon-clone: https://github.com/TanvirAlam/nextjs13-amazon-clone<br>
+      - 👨‍💻 Hulu-clone: https://github.com/TanvirAlam/nextjs13-hulu-clone<br>
+      - 👨‍💻 News-app: https://github.com/TanvirAlam/nextjs13-news-app<br>
+      - 👨‍💻 Meta-Messenger-clone: https://github.com/TanvirAlam/next13-meta-messenger<br>
+      - 👨‍💻 Google-clone: https://github.com/TanvirAlam/nextjs13-google-clone (Live)<br>
+      - 👨‍💻 Netflex-clone:<br>
+      - 👨‍💻 LinkedIn-clone:<br>
 
-- 💬 Ask me about **React, typescript, storybook**
+- 💬 Ask me about **React, typescript, storybook, tailwindcss, styled-components, trpc, prisma, firebase, sanity, stepzen**
 
 - 📫 How to reach me **tanvir.alam.shawn@gmail.com**
 
