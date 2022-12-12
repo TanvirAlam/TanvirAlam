@@ -9,12 +9,14 @@
       - https://github.com/TanvirAlam/my-css
 
 - 📄 Please have a look at my collection of all the JS Design patterns: https://github.com/TanvirAlam/my-design-patterns <br>
-      - React: 
-            - https://github.com/TanvirAlam/my-design-patterns/tree/main/React-env <br>
-            - https://github.com/TanvirAlam/pokemon-go <br>
-            - https://github.com/TanvirAlam/React-image-slider <br>
-      - Vue: ???? <br>
-      - JS: ???? <br>
+      - Facebook-clone: https://github.com/TanvirAlam/nextjs13-facebook-clone
+      - Amazon-clone: https://github.com/TanvirAlam/nextjs13-amazon-clone
+      - Hulu-clone: https://github.com/TanvirAlam/nextjs13-hulu-clone
+      - News-app: https://github.com/TanvirAlam/nextjs13-news-app
+      - Meta-Messenger-clone: https://github.com/TanvirAlam/next13-meta-messenger
+      - Google-clone: https://github.com/TanvirAlam/nextjs13-google-clone (Live)
+      - Netflex-clone:
+      - LinkedIn-clone:
       
 - 👨‍💻 All of my projects are available at [https://www.tanvir.dk/](https://www.tanvir.dk/)
 
