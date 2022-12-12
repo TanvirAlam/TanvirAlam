@@ -17,6 +17,9 @@
       - 👨‍💻 Google-clone: https://github.com/TanvirAlam/nextjs13-google-clone (Live)<br>
       - 👨‍💻 Netflex-clone:<br>
       - 👨‍💻 LinkedIn-clone:<br>
+      - 👨‍💻 Slack-clone:<br>
+      - 👨‍💻 Whatsapp-clone:<br>
+      - 👨‍💻 Instogram-clone:<br>
 
 - 💬 Ask me about **React, typescript, storybook, tailwindcss, styled-components, trpc, prisma, firebase, sanity, stepzen**
 
