@@ -20,6 +20,7 @@
       - 👨‍💻 Slack-clone:<br>
       - 👨‍💻 Whatsapp-clone:<br>
       - 👨‍💻 Instogram-clone:<br>
+      - 👨‍💻 my-blog:<br>
 
 - 💬 Ask me about **React, typescript, storybook, tailwindcss, styled-components, trpc, prisma, firebase, sanity, stepzen**
 
