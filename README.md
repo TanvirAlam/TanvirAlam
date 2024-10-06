@@ -8,20 +8,6 @@
 - 📄 Please have a look at my CSS animation collections: 
       - https://github.com/TanvirAlam/my-css
 
-- 📄 **React and Nextjs** PROJECTS<br>
-      - 👨‍💻 Facebook-clone: https://github.com/TanvirAlam/nextjs13-facebook-clone<br>
-      - 👨‍💻 Amazon-clone: https://github.com/TanvirAlam/nextjs13-amazon-clone<br>
-      - 👨‍💻 Hulu-clone: https://github.com/TanvirAlam/nextjs13-hulu-clone<br>
-      - 👨‍💻 News-app: https://github.com/TanvirAlam/nextjs13-news-app<br>
-      - 👨‍💻 Meta-Messenger-clone: https://github.com/TanvirAlam/next13-meta-messenger<br>
-      - 👨‍💻 Google-clone: https://github.com/TanvirAlam/nextjs13-google-clone (Live)<br>
-      - 👨‍💻 Netflex-clone:<br>
-      - 👨‍💻 LinkedIn-clone:<br>
-      - 👨‍💻 Slack-clone:<br>
-      - 👨‍💻 Whatsapp-clone:<br>
-      - 👨‍💻 Instogram-clone:<br>
-      - 👨‍💻 my-blog:<br>
-
 - 📄 **React-Native** PROJECTS<br>
       - Ubar-clone: https://github.com/TanvirAlam/react-native-uder-clone<br>
 
