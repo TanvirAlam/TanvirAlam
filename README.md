@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tanvir Alam  
 
-### 🚀 Tech Lead | Full-Stack Engineer | Solution Architect  
+### 🚀 Tech Lead | Full-Stack Engineer | Solution Architect | AI Integration Engineer
 
 I’m a **Technology Leader with 10+ years of experience** delivering scalable, high-performance web, mobile, and data-driven solutions. My journey spans from hands-on engineering to leading cross-functional teams, driving Agile delivery, and building products that make an impact.  
 
