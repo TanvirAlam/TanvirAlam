@@ -86,19 +86,6 @@ I thrive at the intersection of **engineering, leadership, and innovation** — 
 
 ---
 
-## 📈 GitHub Stats  
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TanvirAlam&show_icons=true&theme=dark" alt="tanviralam stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAlam&layout=compact&theme=dark" alt="top languages" />
-</p>  
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirAlam&theme=dark" alt="GitHub streak" />
-</p>  
-
----
-
 ## 🤝 Let’s Connect  
 - 🌐 Portfolio: [www.soundmade.com](https://www.soundmade.com)  
 - 💼 LinkedIn: [tanviralamshawn](https://www.linkedin.com/in/tanviralamshawn/)  
