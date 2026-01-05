@@ -20,10 +20,11 @@ I thrive at the intersection of **engineering, leadership, and innovation** — 
 ## 🌟 Featured Projects  
 
 - **[Soundmade](https://github.com/soundmade-com/soundmade)**  
-  A live music discovery platform.  
-  - Grew the team from 1 → 8 developers in 1.5 years  
-  - Architected mobile apps & backend services with real-time event discovery  
-  - 20K+ downloads, 4.6⭐ average rating on App Store/Google Play  
+  A live music discovery platform.
+  🚀 https://soundmade.com/
+    - Grew the team from 1 → 8 developers in 1.5 years  
+    - Architected mobile apps & backend services with real-time event discovery  
+    - 20K+ downloads, 4.6⭐ average rating on App Store/Google Play  
 
 - **[LinkHarbor](https://github.com/zenturait/permido-link-service-poc)**  
    production-ready REST API that extracts and analyzes links from documents. Downloads files (PDF, DOCX, XLSX, PPTX, HTML, CSV, JSON, XML, TXT) and discovers embedded URLs using advanced text extraction and pattern matching.
