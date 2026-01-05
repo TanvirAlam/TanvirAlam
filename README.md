@@ -25,8 +25,11 @@ I thrive at the intersection of **engineering, leadership, and innovation** — 
   - Architected mobile apps & backend services with real-time event discovery  
   - 20K+ downloads, 4.6⭐ average rating on App Store/Google Play  
 
-- **[XONE](https://github.com/XONE-ApS/xone)**  
-  A cutting-edge platform for digital engagement and immersive experiences.  
+- **[LinkHarbor](https://github.com/zenturait/permido-link-service-poc)**  
+   production-ready REST API that extracts and analyzes links from documents. Downloads files (PDF, DOCX, XLSX, PPTX, HTML, CSV, JSON, XML, TXT) and discovers embedded URLs using advanced text extraction and pattern matching.
+🚀 Features: Rate limiting, security validation, monitoring, multi-format support
+🛡️ Security: File type validation, blacklist management, size limits
+📊 Production: Sentry integration, metrics collection, Docker deployment 
 
 - **[Foodime](https://github.com/FoodimeRepo/foodime)**  
   A modern food-ordering ecosystem connecting restaurants and users seamlessly.  
