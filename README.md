@@ -5,7 +5,7 @@
 I’m a **technology leader with 10+ years of experience** building and scaling cloud-native, high-traffic digital products.  
 I combine **hands-on engineering**, **system architecture**, and **team leadership** to deliver reliable, scalable solutions that drive real business outcomes.
 
-I’ve led teams of up to **8 engineers**, owned platforms end-to-end, and shipped products used by **tens of thousands of users** — from early MVPs to production systems running at scale.
+I’ve led teams of up to **20 engineers**, owned platforms end-to-end, and shipped products used by **tens of thousands of users** — from early MVPs to production systems running at scale.
 
 ---
 
